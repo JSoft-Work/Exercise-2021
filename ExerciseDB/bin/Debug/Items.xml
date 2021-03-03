@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+  <item name="Brownie">
+    <hind>0,65</hind>
+    <kogus>48</kogus>
+  </item>
+  <item name="Muffin">
+    <hind>1,00</hind>
+    <kogus>36</kogus>
+  </item>
+  <item name="Cake Pop">
+    <hind>1,35</hind>
+    <kogus>24</kogus>
+  </item>
+  <item name="Water">
+    <hind>1,50</hind>
+    <kogus>29</kogus>
+  </item>
+</items>

@@ -1,0 +1,15 @@
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\Exercises_EE\ExerciseDB\bin\Debug\ExerciseDB.mdf
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\Exercises_EE\ExerciseDB\bin\Debug\ExerciseDB_log.ldf
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\Exercises_EE\ExerciseDB\bin\Debug\ExerciseDB.exe.config
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\Exercises_EE\ExerciseDB\bin\Debug\ExerciseDB.exe
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\Exercises_EE\ExerciseDB\bin\Debug\ExerciseDB.pdb
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\Exercises_EE\ExerciseDB\obj\Debug\ExerciseDB.exe
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\Exercises_EE\ExerciseDB\obj\Debug\ExerciseDB.pdb
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\EXERCISE_2021\ExerciseDB\bin\Debug\ExerciseDB.mdf
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\EXERCISE_2021\ExerciseDB\bin\Debug\ExerciseDB_log.ldf
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\EXERCISE_2021\ExerciseDB\bin\Debug\ExerciseDB.exe.config
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\EXERCISE_2021\ExerciseDB\bin\Debug\ExerciseDB.exe
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\EXERCISE_2021\ExerciseDB\bin\Debug\ExerciseDB.pdb
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\EXERCISE_2021\ExerciseDB\obj\Debug\ExerciseDB.exe
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\EXERCISE_2021\ExerciseDB\obj\Debug\ExerciseDB.pdb
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\EXERCISE_2021\ExerciseDB\obj\Debug\ExerciseDB.csprojResolveAssemblyReference.cache

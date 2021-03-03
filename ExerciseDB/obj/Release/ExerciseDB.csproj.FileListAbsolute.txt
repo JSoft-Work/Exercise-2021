@@ -1,0 +1,14 @@
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\Exercises_EE\ExerciseDB\bin\Release\ExerciseDB.exe.config
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\Exercises_EE\ExerciseDB\bin\Release\ExerciseDB.mdf
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\Exercises_EE\ExerciseDB\bin\Release\ExerciseDB_log.ldf
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\Exercises_EE\ExerciseDB\bin\Release\ExerciseDB.exe
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\Exercises_EE\ExerciseDB\bin\Release\ExerciseDB.pdb
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\Exercises_EE\ExerciseDB\obj\Release\ExerciseDB.exe
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\Exercises_EE\ExerciseDB\obj\Release\ExerciseDB.pdb
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\EXERCISE_2021\ExerciseDB\bin\Release\ExerciseDB.mdf
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\EXERCISE_2021\ExerciseDB\bin\Release\ExerciseDB_log.ldf
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\EXERCISE_2021\ExerciseDB\bin\Release\ExerciseDB.exe.config
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\EXERCISE_2021\ExerciseDB\bin\Release\ExerciseDB.exe
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\EXERCISE_2021\ExerciseDB\bin\Release\ExerciseDB.pdb
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\EXERCISE_2021\ExerciseDB\obj\Release\ExerciseDB.exe
+C:\Users\andrey.avanesov\OneDrive - Energia.ee\Documents\Visual Studio 2015\Projects\EXERCISE_2021\ExerciseDB\obj\Release\ExerciseDB.pdb
